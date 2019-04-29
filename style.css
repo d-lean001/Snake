@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+#instructions {
+  text-align: center;
+}
+
+#gameBoard {
+  width: 98%;
+  height: 300px;
+  background: grey;
+  position: relative;
+  left: 1%;
+}
+
+#snakeHead {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+}
